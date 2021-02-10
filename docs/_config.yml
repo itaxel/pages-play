@@ -22,7 +22,7 @@ title: Welcome to IT Axel Pages-Play
 email: alex@itaxel.be
 description: >- # this means to ignore newlines until "baseurl:"
   This is my little playground.
-baseurl: "/pages-play/docs/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://itaxel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: itaxel
